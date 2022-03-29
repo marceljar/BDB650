@@ -1,5 +1,7 @@
 ## Any issues with hosting and domain that can interfere with the website accessibility will be solely the responsibility of the faculty
-    
+
+#### Type of Risk: Technical
+
 ### Evaluation 
 - Likelihood: Very low, as the hosting solution (Digital Ocean) guarantees an average up time of over 99%
 - Impact: Very high, as it will compeltely block access to the posted materials
