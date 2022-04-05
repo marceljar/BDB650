@@ -4,7 +4,7 @@
 
 ### Evaluation 
 - Likelihood: Very low, as the hosting solution (Digital Ocean) guarantees an average up time of over 99%
-- Impact: Very high, as it will compeltely block access to the posted materials
+- Impact: Very high, as it will completely block access to the posted materials
     
 ### Mitigation Strategy
 - Make sure that crucial files such as tests and quizzes are hosted in a system for which the faculty bears no individual responsibility (Blackboard)
