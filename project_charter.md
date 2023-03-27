@@ -4,9 +4,9 @@
 
 This project aims at creating a website for a faculty member at a College setting. A number of tools to help with the delivery of courses will be included such as: a template to create presentation slides, a tool to allow students and/or groups of students to pick meeting timeslots, tools for allowing faculty and groups to easily message one another, and a timetable for the faculty to display its availability to students.
 
-*January 23rd, 2022*
+*March 27rd, 2023*
 
-*Current Version: 2.1*
+*Current Version: 2.3*
 
 *Project Manager (and sponsor): Marcel Jar*
 
@@ -17,6 +17,10 @@ Marcel is planning to develop his own website to facilitate the delivery of his 
 ### 2.1 Objectives
 
 A website designed for a faculty delivering courses at College setting will be up and running prior to the beginning of the Fall terms with tools for delivering presentations, displaying the faculty's availability, as well as to allow students and groups to pick meeting timeslots.
+
+### 2.2 WBS
+
+![WBS](/WBS.png "WBS")
 
 ## 3. Milestones
 
@@ -63,8 +67,24 @@ A website designed for a faculty delivering courses at College setting will be u
 ## 7.0 Preliminary Budget
 
 
+### Personnel Cost Per Sprint
+
+Intentionally left blank
+
+### Total Personnel Cost
+
+Intentionally left blank
+
+### Fixed Costs
 | Item | Qtd | Cost/Item | Total Cost |
 | ----------- | ----------- | ----------- |  ----------- |
 | Hosting  | 1 | 4.99 CADs/Month| 59.88 CADs/year|
 | Domain | 1| 12.99 CADs/Year| 12.99 CADs/year|
-| **Overall Cost** |  | | 72.87 CADs/year|
+
+### Contigency
+
+Intentionally left blank
+
+### Total Cost
+
+Intentionally left blank
