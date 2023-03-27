@@ -37,6 +37,8 @@ A website designed for a faculty delivering courses at College setting will be u
 3. Faculty availability tool accessible for students
 4. Tool for students and groups to pick timeslots accessile for students
 
+ADD YOUR GANTT CHART HERE
+
 ## 5. Risks, Assumptions, and Constraints
 
 ### 5.1 Risks
@@ -45,6 +47,8 @@ A website designed for a faculty delivering courses at College setting will be u
 - Some of the contracted services can have sudden price hikes
 - The faculty can inadvertently make changes that will cause the system to become unaccessible/unreliable
 - Students might find it har to navigate a new system outside of the ones already offered by the college (Blackboard)
+
+ADD YOUR RISK EVALUATION CHART HERE
 
 ### 5.2 Assumptions
 
@@ -63,6 +67,8 @@ A website designed for a faculty delivering courses at College setting will be u
 | Project Manager | Design and maintain the website| Marcel Jar|
 | Project Sponsor | Cover website costs | Marcel Jar|
 | Users | Access the provided contents  | Seneca Students|
+
+ADD YOUR Stakeholder Matrix diagram HERE
 
 ## 7.0 Preliminary Budget
 
